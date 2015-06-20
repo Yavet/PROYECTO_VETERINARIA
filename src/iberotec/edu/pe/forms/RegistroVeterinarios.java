@@ -13,7 +13,7 @@ import javax.swing.table.DefaultTableModel;
  */
 public class RegistroVeterinarios extends javax.swing.JFrame {
 
-     
+     //
     public RegistroVeterinarios() {
         setTitle("Veterinaria Y y Y");
         setResizable(false);
